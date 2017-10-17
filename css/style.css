@@ -1,0 +1,51 @@
+body{
+	background-image: -webkit-gradient(linear,  left top,  left bottom, 
+		color-stop(0.00, red), 
+		color-stop(16%, orange),
+		color-stop(32%, yellow),
+		color-stop(48%, green),
+		color-stop(60%, blue),
+		color-stop(76%, indigo),
+		color-stop(1.00, violet));
+}
+
+nav{
+	background-color: #000;
+	color: #6951A1;
+}
+
+nav ol{
+	text-align: center;
+}
+
+nav li{
+	display: block;
+}
+
+h1, h2, h3, h4{
+	font-size: 1.5em;
+	text-align: center;
+	font-family: 'noto serif'
+}
+
+p{
+	text-align: center;
+	font-family: 'lora';
+}
+
+footer{
+	background-color: #000;
+	color: #6951A1;
+	text-align: center;
+}
+
+h5{
+	font-size: 1em;
+	padding: 1em;
+}
+
+.s img{
+	padding: 1em;
+}
+
+
